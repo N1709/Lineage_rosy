@@ -1,7 +1,19 @@
-# Lineage Xioami Redmi 5 
+# Costume Rom Xioami Redmi 5 (ROSY)
 
-![photo_2025-11-13_23-29-50](https://github.com/user-attachments/assets/7289bc4c-82c2-4187-9748-04b1241f36ff)
-
+![Redmi 5](https://i.imgur.com/tFsJR9y.png "Redmi 5")
+```
 WARNING: THIS IS CUSTOM FIRMWARE, WHICH VOIDS THE WARRANTY OF YOUR DEVICE.
 I AM NOT RESPONSIBLE FOR ANY HARDWARE FAILURES, LOSS OF DATA OR EXPLOSIONS. USE AT YOUR OWN RISK.
 BUGS AND PERFORMANCE ISSUES MAY ARISE COMPARED TO PREVIOUS VERSIONS OF ANDROID
+```
+
+```
+REMEMBER WE ONLY BUILD OR PORT FOR THIS DEVICE!!
+```
+# Tutorial Flash
+- Wipe : System, Vendor, Cache, Data.
+- Flash : NameRom.zip + Gapps
+- Done? Format data.
+
+# Costume Rom For Redmi 5
+Get all the latest updates here: Soon
