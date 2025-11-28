@@ -16,4 +16,4 @@ REMEMBER WE ONLY BUILD OR PORT FOR THIS DEVICE!!
 - Done? Format data.
 
 # Costume Rom For Redmi 5
-Get all the latest updates here: Soon
+Get all the latest updates [here](https://github.com/N1709/Rosy_Update/releases)
