@@ -1,4 +1,4 @@
-# Costum Rom Xioami Redmi 5 (ROSY)
+# Custom Rom Xioami Redmi 5 (ROSY)
 
 ![Redmi 5](https://i.imgur.com/tFsJR9y.png "Redmi 5")
 ```
@@ -15,5 +15,5 @@ REMEMBER WE ONLY BUILD OR PORT FOR THIS DEVICE!!
 - Flash : NameRom.zip + Gapps
 - Done? Format data.
 
-# Costum Rom For Redmi 5
+# Custom Rom For Redmi 5
 Get all the latest updates [here](https://github.com/N1709/Rosy_Update/releases)
